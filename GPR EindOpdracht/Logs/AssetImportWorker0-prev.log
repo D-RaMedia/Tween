@@ -1,0 +1,294 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'nl' Physical Memory: 16261 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Diego/Downloads/FSM-master/GPR EindOpdracht
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50995
+Successfully changed project path to: C:/Users/Diego/Downloads/FSM-master/GPR EindOpdracht
+C:/Users/Diego/Downloads/FSM-master/GPR EindOpdracht
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 22.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Diego/Downloads/FSM-master/GPR EindOpdracht/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.5763
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56856
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002144 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 20.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.160 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000770 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.763 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1107 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.8 MB.
+System memory in use after: 56.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1548.
+Total: 1.446700 ms (FindLiveObjects: 0.131600 ms CreateObjectMapping: 0.053200 ms MarkObjects: 1.194300 ms  DeleteObjects: 0.066500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/Tweens/PositionTween.cs
+  artifactKey: Guid(ecb11574d16e74542a15e60de0025dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Tweens/PositionTween.cs using Guid(ecb11574d16e74542a15e60de0025dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74d16aadb4d356c8740597e735bab656') in 0.032953 seconds
+  Import took 0.034706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.702510 seconds.
+  path: Assets/Scripts/Tweens/Tween.cs
+  artifactKey: Guid(6b5513993ebd62e42b8995b4e4055b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Tweens/Tween.cs using Guid(6b5513993ebd62e42b8995b4e4055b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1165f3feb961b11013a7b9fdcc8541ef') in 0.003167 seconds
+  Import took 0.004777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024984 seconds.
+  path: Assets/Scripts/Tweens/Tween.cs
+  artifactKey: Guid(6b5513993ebd62e42b8995b4e4055b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Tweens/Tween.cs using Guid(6b5513993ebd62e42b8995b4e4055b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1165f3feb961b11013a7b9fdcc8541ef') in 0.002678 seconds
+  Import took 0.004472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1208.365999 seconds.
+  path: Assets/Scripts/Tweens/ScaleTween.cs
+  artifactKey: Guid(9a4a0dc99961fdc41885c7f56bb08df9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Tweens/ScaleTween.cs using Guid(9a4a0dc99961fdc41885c7f56bb08df9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '983414573df06fee1be913fbef710c45') in 0.003517 seconds
+  Import took 0.005827 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000730 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.750 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1550.
+Total: 1.499400 ms (FindLiveObjects: 0.160000 ms CreateObjectMapping: 0.039000 ms MarkObjects: 1.248200 ms  DeleteObjects: 0.050900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.111449 seconds.
+  path: Assets/Scripts/Tweens/ScaleTween.cs
+  artifactKey: Guid(9a4a0dc99961fdc41885c7f56bb08df9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Tweens/ScaleTween.cs using Guid(9a4a0dc99961fdc41885c7f56bb08df9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db7dc4c5e8801a517940adb184789e54') in 0.004472 seconds
+  Import took 0.006142 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000770 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.749 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1552.
+Total: 1.331600 ms (FindLiveObjects: 0.118100 ms CreateObjectMapping: 0.030100 ms MarkObjects: 1.139400 ms  DeleteObjects: 0.043000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 726.043897 seconds.
+  path: Assets/Scripts/Tweens/Tween.cs
+  artifactKey: Guid(6b5513993ebd62e42b8995b4e4055b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Tweens/Tween.cs using Guid(6b5513993ebd62e42b8995b4e4055b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5457d7b8eb3fa27074ab3f700fd90f09') in 0.005559 seconds
+  Import took 0.007660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022440 seconds.
+  path: Assets/Scripts/Tweens/Tween.cs
+  artifactKey: Guid(6b5513993ebd62e42b8995b4e4055b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Tweens/Tween.cs using Guid(6b5513993ebd62e42b8995b4e4055b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5457d7b8eb3fa27074ab3f700fd90f09') in 0.003689 seconds
+  Import took 0.006106 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000736 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.747 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1554.
+Total: 1.672300 ms (FindLiveObjects: 0.171700 ms CreateObjectMapping: 0.047700 ms MarkObjects: 1.400600 ms  DeleteObjects: 0.050800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.360682 seconds.
+  path: Assets/Scripts/Tweens/RotateTween.cs
+  artifactKey: Guid(0d1ef75d64a02bf47888e4702c09c78a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Tweens/RotateTween.cs using Guid(0d1ef75d64a02bf47888e4702c09c78a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19168b3c90a82fd33b5ccc5bcc1f2b76') in 0.005085 seconds
+  Import took 0.007452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001074 seconds.
+  path: Assets/Scripts/Tweens/RotateTween.cs
+  artifactKey: Guid(0d1ef75d64a02bf47888e4702c09c78a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Tweens/RotateTween.cs using Guid(0d1ef75d64a02bf47888e4702c09c78a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19168b3c90a82fd33b5ccc5bcc1f2b76') in 0.004174 seconds
+  Import took 0.005928 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000837 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.762 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1556.
+Total: 1.430400 ms (FindLiveObjects: 0.119600 ms CreateObjectMapping: 0.029000 ms MarkObjects: 1.235200 ms  DeleteObjects: 0.045600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000734 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.5 MB.
+System memory in use after: 57.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1558.
+Total: 1.659600 ms (FindLiveObjects: 0.147400 ms CreateObjectMapping: 0.047600 ms MarkObjects: 1.416400 ms  DeleteObjects: 0.047100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4745.759871 seconds.
+  path: Assets/Scripts/EaseTypes.cs
+  artifactKey: Guid(257503cad665c2f4c96d1790d54b7714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EaseTypes.cs using Guid(257503cad665c2f4c96d1790d54b7714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cbf45d2b5e3253374bbd0c373710aeb') in 0.006522 seconds
+  Import took 0.009019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020318 seconds.
+  path: Assets/Scripts/EaseTypes.cs
+  artifactKey: Guid(257503cad665c2f4c96d1790d54b7714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EaseTypes.cs using Guid(257503cad665c2f4c96d1790d54b7714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cbf45d2b5e3253374bbd0c373710aeb') in 0.003681 seconds
+  Import took 0.005580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.266894 seconds.
+  path: Assets/Scripts/Tween.cs
+  artifactKey: Guid(6b5513993ebd62e42b8995b4e4055b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Tween.cs using Guid(6b5513993ebd62e42b8995b4e4055b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd385f4ee4a1c4e7fd583124e7962b19b') in 0.002822 seconds
+  Import took 0.004633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000873 seconds.
+  path: Assets/Scripts/Tween.cs
+  artifactKey: Guid(6b5513993ebd62e42b8995b4e4055b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Tween.cs using Guid(6b5513993ebd62e42b8995b4e4055b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd385f4ee4a1c4e7fd583124e7962b19b') in 0.004709 seconds
+  Import took 0.007097 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
